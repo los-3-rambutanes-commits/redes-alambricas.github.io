@@ -9,15 +9,6 @@
 <body bgcolor "BLACK">
 <font color"tomato">
 <h1><center>REDES ALAMBRICAS.</h1><br>
- <style>
-        /* Cambia el color de fondo de toda la página */
-        body {
-            background-color: SKYBLUE; /* Puedes usar nombre, HEX o RGB */
-color: #000; /* Color del texto */
-            font-family: Georgia, sans-serif;
-  }
-<hr>   
- </style>
 </head>
 <body>
 <HR>
