@@ -1,20 +1,39 @@
-<!DOCTYPE html>
-<html lang "es"
-<body>
+<html>
 <head>
-<meta charset"UTF-8">
-<meta name "viewport" contents "widtedevice-width, initial-scale=1.0">
-<HR>
+    <title>OFI</title>
+
+    <style>
+        body{
+            background-color: skyblue;
+        }
+    </style>
+
 </head>
-<h1><center>REDES ALAMBRICAS.
-</head>
+
 <body>
-<HR>
+
 <center>
-<BR>
-<a href= "que son.html">que son<BR>
-<a href= "como se construyen.html">como se construyen<BR>
-<a href= "que requerimientos tecnicos se emplean.html">que requerimientos tecnicos se emplean<BR>
-<a href= "que aspectos de seguridad debes tomar en cuenta.html">que aspectos de seguridad debes tomar en cuenta<BR>
-<a href= "tips para construir mantener una red eficiente.html">tips para construir mantener una red eficiente<BR>
-<ALIGN CENTER>
+
+<h1><center>REDES ALAMBRICAS</h1>
+
+<hr>
+
+<a href="que son.html">¿que son?</a>
+<br>
+
+<a href="como se construyen.html">como se construyen</a>
+<br>
+
+<a href="que requerimientos tecnicos se emplean.html">que requerimientos tecnicos se emplean</a>
+<br>
+
+<a href="que aspectos de seguridad debes tomar en cuenta.html">¿que aspectos de seguridad debes tomar en cuenta?</a>
+<br>
+
+<a href="tips para construir mantener una red eficiente.html">tips para construir mantener una red eficiente</a>
+<br>
+
+</center>
+
+</body>
+</html>
