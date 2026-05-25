@@ -14,7 +14,7 @@
 
 <center>
 
-<h1><center>REDES ALAMBRICAS</h1>
+<h1><REDES ALAMBRICAS</h1>
 
 <hr>
 
