@@ -6,9 +6,7 @@
 <meta name "viewport" contents "widtedevice-width, initial-scale=1.0">
 <HR>
 </head>
-<body bgcolor "BLACK">
-<font color"tomato">
-<h1><center>REDES ALAMBRICAS.</h1><br>
+<h1><center>REDES ALAMBRICAS.
 </head>
 <body>
 <HR>
