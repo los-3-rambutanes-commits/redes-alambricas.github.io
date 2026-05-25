@@ -18,19 +18,19 @@
 
 <hr>
 
-<a href="que son.html">¿que son?</a>
+<A HREF="que son.html">¿que son?</A>
 <br>
 
-<a href="como se construyen.html">como se construyen</a>
+<A HREF="como se construyen.html">como se construyen</A>
 <br>
 
-<a href="que requerimientos tecnicos se emplean.html">que requerimientos tecnicos se emplean</a>
+<A HREF="que requerimientos tecnicos se emplean.html">que requerimientos tecnicos se emplean</A>
 <br>
 
-<a href="que aspectos de seguridad debes tomar en cuenta.html">¿que aspectos de seguridad debes tomar en cuenta?</a>
+<A HREF="que aspectos de seguridad debes tomar en cuenta.html">¿que aspectos de seguridad debes tomar en cuenta?</A>
 <br>
 
-<a href="tips para construir mantener una red eficiente.html">tips para construir mantener una red eficiente</a>
+<A HREF="tips para construir mantener una red eficiente.html">tips para construir mantener una red eficiente</A>
 <br>
 
 </center>
