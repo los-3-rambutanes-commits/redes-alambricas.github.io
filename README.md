@@ -18,8 +18,6 @@
 
 <hr>
 
-<ul id= " MENÚ "
-
 <li><A HREF="que son.html">¿que son?</A></li>
 <br>
 
